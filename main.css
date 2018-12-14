@@ -1,0 +1,21 @@
+#main {
+    text-align: center;
+    margin-top: 15vh;
+}
+
+h1 {
+    font-size: 4em;
+    margin-bottom: 150px;
+}
+
+#content {
+    font-size: 2em;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.result {
+    text-transform: uppercase;
+    color: red;
+    font-weight: bold;
+}
