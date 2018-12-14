@@ -26,7 +26,8 @@ h1 {
     margin-right: 40px;
     background-color: #ffe9cc;
     border-radius: 5px;
-    padding: 5px;
+    padding-left: 8px;
+    padding-right: 8px;
     border: solid black 1px;
 }
 

@@ -7,7 +7,7 @@ pcFlaw = document.getElementById('pcFlaw');
 
 var nameArr = ['Jeff', 'Henry', 'Mambo', 'Muumuu', 'Varis'];
 var classArr = ['Barbarian', 'Bard', 'Cleric', 'Fighter', 'Monk', 'Ranger', 'Rogue', 'Sorceror', 'Warlock', 'Wizard'];
-var raceArr = ['Human', 'Elf', 'Half-elf', 'Tiefling', 'Half-orc', 'Halfling', 'Gnome'];
+var raceArr = [' Human', ' Elf', ' Half-elf', ' Tiefling', ' Half-orc', ' Halfling', ' Gnome'];
 var flawArr = ['Angry', 'Smelly', 'Cowardly', 'Grumpy', 'High-strung'];
 
 document.querySelector('#roll').addEventListener('click', function() {
