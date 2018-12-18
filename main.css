@@ -11,7 +11,19 @@ body{
 
 h1 {
     font-size: 4em;
-    margin-bottom: 100px;
+    margin-bottom: 15px;
+    color: #ffe9cc;
+    text-shadow:
+		-1px -1px 0 #000,
+		1px -1px 0 #000,
+		-1px 1px 0 #000,
+		1px 1px 0 #000;
+}
+
+h2 {
+    font-size: 2em;
+    margin-bottom: 85px;
+    margin-top: 0;
     color: #ffe9cc;
     text-shadow:
 		-1px -1px 0 #000,
@@ -37,8 +49,10 @@ h1 {
     font-weight: bold;
 }
 
-#roll {
+button {
     margin-top: 100px;
+    margin-left: 20px;
+    margin-right: 20px;
     background-color: #ffe9cc; /* Green */
     border: none;
     padding: 15px 32px;
@@ -49,6 +63,6 @@ h1 {
     border: solid black 1px;
 }
 
-#roll:focus {
+button:focus {
     outline: none;
 }
