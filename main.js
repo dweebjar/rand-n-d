@@ -6,7 +6,7 @@ pcRace = document.getElementById('pcRace');
 pcFlaw = document.getElementById('pcFlaw');
 pcEnemy = document.getElementById('pcEnemy');
 
-var nameArr = ['Mambo', 'Varis', 'Tylitha', 'Puh-Puh', 'Gildwarg', 'Kurg', 'Clembeg', 'Timjert', 'Narkoo', 'Krush', 'Laiex', 'Gorluin', 'Sugr', 'Jifn', 'Olfin', 'Dardil', 'Krun', 'Rin', 'Gnank', 'Sufta', 'Puld', 'Jedediah', 'Arnoldus', 'Millesant', 'Roysa'];
+var nameArr = ['Mambo', 'Varis', 'Puh-Puh', 'Gildwarg', 'Kurg', 'Clembeg', 'Timjert', 'Narkoo', 'Krush', 'Laiex', 'Gorluin', 'Sugr', 'Jifn', 'Olfin', 'Dardil', 'Krun', 'Rin', 'Gnank', 'Sufta', 'Puld', 'Jedediah', 'Arnoldus', 'Millesant', 'Roysa'];
 var classArr = ['Barbarian', 'Bard', 'Cleric', 'Druid', 'Fighter', 'Monk', 'Paladin', 'Ranger', 'Rogue', 'Sorceror', 'Warlock', 'Wizard'];
 var raceArr = [' Human', ' Elf', ' Half-elf', ' Tiefling', ' Half-orc', ' Halfling', ' Gnome', ' Dwarf', ' Dragonborn', ' Aarakocra', ' Goliath', ' Gensai', ' Kenku', ' Aasimir', ' Firbolg', ' Bugbear', ' Goblin', ' Hobgoblin', ' Kobold', ' Lizardfolk', ' Orc', ' Tabaxi', ' Triton', ' Yuan-ti', ' Tortle', ' Gith', ' Changeling', ' Kalashtar', ' Warforged', ' Shifter'];
 var flawArr = ['angry', 'smelly', 'cowardly', 'grumpy', 'high-strung', 'cantankerous', 'clingy', 'bossy', 'boring', 'cynical', 'greedy', 'impulsive', 'flirty', 'gullible', 'impolite', 'naughty', 'sarcastic', 'quick-tempered', 'ruthless', 'silly', 'stupid', 'stubborn', 'vulgar', 'vain'];
