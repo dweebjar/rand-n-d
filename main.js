@@ -33,5 +33,5 @@ document.querySelector('#roll').addEventListener('click', function() {
 });
 
 document.querySelector('#share').addEventListener('click', function() {
-    window.open("https://twitter.com/intent/tweet?text=" + "My name is " + pcName.textContent + ", and I'm a " + pcRace.textContent + ". I also happen to be the best " + pcClass.textContent + " around. I'm known for being a bit " + pcFlaw.textContent + ", but if you're looking to take on " + pcEnemy.textContent + ", I'm the best choice. https://bit.ly/2UU1KN2", '_blank');
+    window.open("https://twitter.com/intent/tweet?text=" + "My name is " + pcName.textContent + ", and I'm a " + pcRace.textContent + ". I also happen to be the best " + pcClass.textContent + " around. I'm known for being a bit " + pcFlaw.textContent + ", but if you're looking to take on " + pcEnemy.textContent + ", I'm the best choice. https://dweebjar.github.io/rand-n-d/", '_blank');
 })
